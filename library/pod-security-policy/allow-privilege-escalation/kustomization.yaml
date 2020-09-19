@@ -1,3 +1,4 @@
 resources:
   - template.yaml
   - constraint.yaml
+  - example.yaml
